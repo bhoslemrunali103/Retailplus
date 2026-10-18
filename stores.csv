@@ -1,0 +1,16 @@
+store_id,store_name,region,store_type
+1,East Store #1,East,Physical
+2,East Store #2,East,Physical
+3,East Store #3,East,Physical
+4,East Online Hub #4,East,Online
+5,North Store #5,North,Physical
+6,East Store #6,East,Physical
+7,Central Store #7,Central,Physical
+8,Central Store #8,Central,Physical
+9,East Store #9,East,Physical
+10,North Online Hub #10,North,Online
+11,West Store #11,West,Physical
+12,South Online Hub #12,South,Online
+13,North Online Hub #13,North,Online
+14,West Online Hub #14,West,Online
+15,North Online Hub #15,North,Online

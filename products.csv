@@ -1,0 +1,222 @@
+product_id,product_name,category,sub_category,unit_cost,unit_price
+1,Headphones Model 1,Electronics,Headphones,193.43,475.56
+2,Headphones Model 2,Electronics,Headphones,263.76,557.74
+3,Headphones Model 3,Electronics,Headphones,270.27,497.06
+4,Headphones Model 4,Electronics,Headphones,287.7,555.92
+5,Headphones Model 5,Electronics,Headphones,83.27,176.11
+6,Headphones Model 6,Electronics,Headphones,266.96,472.31
+7,Headphones Model 7,Electronics,Headphones,128.1,319.32
+8,Headphones Model 8,Electronics,Headphones,96.25,129.87
+9,Headphones Model 9,Electronics,Headphones,158.42,271.2
+10,Headphones Model 10,Electronics,Headphones,185.65,337.91
+11,Headphones Model 11,Electronics,Headphones,139.23,342.75
+12,Smartphones Model 12,Electronics,Smartphones,90.08,221.9
+13,Smartphones Model 13,Electronics,Smartphones,152.18,323.02
+14,Smartphones Model 14,Electronics,Smartphones,142.56,211.03
+15,Smartphones Model 15,Electronics,Smartphones,290.17,594.43
+16,Smartphones Model 16,Electronics,Smartphones,200.97,334.49
+17,Smartphones Model 17,Electronics,Smartphones,90.04,203.47
+18,Smartphones Model 18,Electronics,Smartphones,9.6,12.95
+19,Smartphones Model 19,Electronics,Smartphones,88.49,178.01
+20,Smartphones Model 20,Electronics,Smartphones,20.69,34.49
+21,Smartphones Model 21,Electronics,Smartphones,131.95,276.08
+22,Laptops Model 22,Electronics,Laptops,19.72,28.89
+23,Laptops Model 23,Electronics,Laptops,264.22,592.46
+24,Laptops Model 24,Electronics,Laptops,153.09,375.11
+25,Laptops Model 25,Electronics,Laptops,170.42,416.58
+26,Laptops Model 26,Electronics,Laptops,215.39,316.88
+27,Laptops Model 27,Electronics,Laptops,221.25,402.33
+28,Laptops Model 28,Electronics,Laptops,275.89,454.93
+29,Laptops Model 29,Electronics,Laptops,14.48,35.03
+30,Smartwatches Model 30,Electronics,Smartwatches,244.45,504.66
+31,Smartwatches Model 31,Electronics,Smartwatches,129.66,319.0
+32,Smartwatches Model 32,Electronics,Smartwatches,33.95,54.78
+33,Smartwatches Model 33,Electronics,Smartwatches,94.1,157.42
+34,Smartwatches Model 34,Electronics,Smartwatches,171.35,362.36
+35,Smartwatches Model 35,Electronics,Smartwatches,100.13,199.64
+36,Smartwatches Model 36,Electronics,Smartwatches,206.58,318.01
+37,Smartwatches Model 37,Electronics,Smartwatches,45.03,88.49
+38,Smartwatches Model 38,Electronics,Smartwatches,93.81,131.59
+39,Men's Wear Model 39,Clothing,Men's Wear,278.5,516.17
+40,Men's Wear Model 40,Clothing,Men's Wear,59.09,132.3
+41,Men's Wear Model 41,Clothing,Men's Wear,250.99,355.21
+42,Men's Wear Model 42,Clothing,Men's Wear,160.34,342.0
+43,Men's Wear Model 43,Clothing,Men's Wear,153.63,326.03
+44,Men's Wear Model 44,Clothing,Men's Wear,110.48,190.58
+45,Men's Wear Model 45,Clothing,Men's Wear,142.63,349.98
+46,Men's Wear Model 46,Clothing,Men's Wear,141.08,337.9
+47,Men's Wear Model 47,Clothing,Men's Wear,12.79,28.4
+48,Men's Wear Model 48,Clothing,Men's Wear,31.09,45.66
+49,Men's Wear Model 49,Clothing,Men's Wear,272.52,611.52
+50,Men's Wear Model 50,Clothing,Men's Wear,176.2,307.95
+51,Women's Wear Model 51,Clothing,Women's Wear,165.26,327.0
+52,Women's Wear Model 52,Clothing,Women's Wear,91.54,201.97
+53,Women's Wear Model 53,Clothing,Women's Wear,120.83,215.5
+54,Women's Wear Model 54,Clothing,Women's Wear,6.76,15.34
+55,Women's Wear Model 55,Clothing,Women's Wear,263.1,487.33
+56,Women's Wear Model 56,Clothing,Women's Wear,21.03,28.72
+57,Women's Wear Model 57,Clothing,Women's Wear,249.82,519.59
+58,Women's Wear Model 58,Clothing,Women's Wear,103.38,146.48
+59,Women's Wear Model 59,Clothing,Women's Wear,90.72,170.35
+60,Women's Wear Model 60,Clothing,Women's Wear,102.74,141.07
+61,Women's Wear Model 61,Clothing,Women's Wear,223.44,471.3
+62,Women's Wear Model 62,Clothing,Women's Wear,223.11,304.24
+63,Kids Wear Model 63,Clothing,Kids Wear,157.3,310.58
+64,Kids Wear Model 64,Clothing,Kids Wear,290.35,424.98
+65,Kids Wear Model 65,Clothing,Kids Wear,269.04,556.27
+66,Kids Wear Model 66,Clothing,Kids Wear,50.66,104.05
+67,Kids Wear Model 67,Clothing,Kids Wear,217.15,526.34
+68,Kids Wear Model 68,Clothing,Kids Wear,242.66,497.06
+69,Kids Wear Model 69,Clothing,Kids Wear,64.21,88.65
+70,Kids Wear Model 70,Clothing,Kids Wear,50.14,118.12
+71,Kids Wear Model 71,Clothing,Kids Wear,158.35,252.83
+72,Footwear Model 72,Clothing,Footwear,144.75,332.82
+73,Footwear Model 73,Clothing,Footwear,135.93,185.79
+74,Footwear Model 74,Clothing,Footwear,40.93,73.08
+75,Footwear Model 75,Clothing,Footwear,294.9,673.65
+76,Footwear Model 76,Clothing,Footwear,253.31,495.49
+77,Footwear Model 77,Clothing,Footwear,247.4,523.89
+78,Footwear Model 78,Clothing,Footwear,258.5,527.49
+79,Footwear Model 79,Clothing,Footwear,132.54,273.49
+80,Cookware Model 80,Home & Kitchen,Cookware,46.8,102.66
+81,Cookware Model 81,Home & Kitchen,Cookware,76.0,145.45
+82,Cookware Model 82,Home & Kitchen,Cookware,211.39,325.63
+83,Cookware Model 83,Home & Kitchen,Cookware,146.74,241.73
+84,Cookware Model 84,Home & Kitchen,Cookware,34.51,69.24
+85,Cookware Model 85,Home & Kitchen,Cookware,113.37,184.82
+86,Cookware Model 86,Home & Kitchen,Cookware,118.82,268.51
+87,Cookware Model 87,Home & Kitchen,Cookware,141.87,322.92
+88,Cookware Model 88,Home & Kitchen,Cookware,48.71,79.89
+89,Furniture Model 89,Home & Kitchen,Furniture,171.44,225.14
+90,Furniture Model 90,Home & Kitchen,Furniture,94.31,195.61
+91,Furniture Model 91,Home & Kitchen,Furniture,268.5,548.77
+92,Furniture Model 92,Home & Kitchen,Furniture,17.58,41.99
+93,Furniture Model 93,Home & Kitchen,Furniture,289.02,538.01
+94,Furniture Model 94,Home & Kitchen,Furniture,218.3,356.33
+95,Furniture Model 95,Home & Kitchen,Furniture,294.62,509.49
+96,Furniture Model 96,Home & Kitchen,Furniture,257.47,490.18
+97,Decor Model 97,Home & Kitchen,Decor,271.25,523.53
+98,Decor Model 98,Home & Kitchen,Decor,156.35,235.99
+99,Decor Model 99,Home & Kitchen,Decor,49.66,103.65
+100,Decor Model 100,Home & Kitchen,Decor,171.13,316.83
+101,Decor Model 101,Home & Kitchen,Decor,258.31,379.21
+102,Decor Model 102,Home & Kitchen,Decor,236.56,494.44
+103,Decor Model 103,Home & Kitchen,Decor,277.43,383.37
+104,Decor Model 104,Home & Kitchen,Decor,252.6,475.01
+105,Decor Model 105,Home & Kitchen,Decor,288.95,585.7
+106,Decor Model 106,Home & Kitchen,Decor,58.21,125.16
+107,Appliances Model 107,Home & Kitchen,Appliances,233.74,451.24
+108,Appliances Model 108,Home & Kitchen,Appliances,43.18,72.93
+109,Appliances Model 109,Home & Kitchen,Appliances,286.78,492.61
+110,Appliances Model 110,Home & Kitchen,Appliances,187.16,333.99
+111,Appliances Model 111,Home & Kitchen,Appliances,18.25,42.38
+112,Appliances Model 112,Home & Kitchen,Appliances,51.96,73.57
+113,Appliances Model 113,Home & Kitchen,Appliances,36.34,87.98
+114,Appliances Model 114,Home & Kitchen,Appliances,145.54,321.92
+115,Appliances Model 115,Home & Kitchen,Appliances,294.49,668.57
+116,Appliances Model 116,Home & Kitchen,Appliances,221.13,350.26
+117,Appliances Model 117,Home & Kitchen,Appliances,270.44,408.04
+118,Appliances Model 118,Home & Kitchen,Appliances,268.28,592.09
+119,Skincare Model 119,Beauty,Skincare,277.1,380.82
+120,Skincare Model 120,Beauty,Skincare,78.89,106.1
+121,Skincare Model 121,Beauty,Skincare,226.23,413.96
+122,Skincare Model 122,Beauty,Skincare,115.43,237.5
+123,Skincare Model 123,Beauty,Skincare,13.69,20.66
+124,Skincare Model 124,Beauty,Skincare,36.76,67.62
+125,Skincare Model 125,Beauty,Skincare,44.3,91.47
+126,Skincare Model 126,Beauty,Skincare,169.16,259.64
+127,Skincare Model 127,Beauty,Skincare,149.88,316.94
+128,Skincare Model 128,Beauty,Skincare,71.52,156.67
+129,Skincare Model 129,Beauty,Skincare,133.05,257.35
+130,Skincare Model 130,Beauty,Skincare,238.05,334.04
+131,Skincare Model 131,Beauty,Skincare,12.15,29.79
+132,Haircare Model 132,Beauty,Haircare,65.04,147.77
+133,Haircare Model 133,Beauty,Haircare,268.52,464.94
+134,Haircare Model 134,Beauty,Haircare,125.37,245.21
+135,Haircare Model 135,Beauty,Haircare,26.23,39.93
+136,Haircare Model 136,Beauty,Haircare,220.34,527.31
+137,Haircare Model 137,Beauty,Haircare,194.46,368.58
+138,Haircare Model 138,Beauty,Haircare,250.56,497.22
+139,Haircare Model 139,Beauty,Haircare,144.75,249.34
+140,Haircare Model 140,Beauty,Haircare,187.45,369.36
+141,Haircare Model 141,Beauty,Haircare,45.67,63.05
+142,Makeup Model 142,Beauty,Makeup,189.51,445.12
+143,Makeup Model 143,Beauty,Makeup,172.9,251.16
+144,Makeup Model 144,Beauty,Makeup,157.59,223.95
+145,Makeup Model 145,Beauty,Makeup,152.12,207.15
+146,Makeup Model 146,Beauty,Makeup,164.46,218.25
+147,Makeup Model 147,Beauty,Makeup,247.29,407.5
+148,Makeup Model 148,Beauty,Makeup,249.3,440.89
+149,Makeup Model 149,Beauty,Makeup,110.58,259.52
+150,Makeup Model 150,Beauty,Makeup,51.57,84.87
+151,Makeup Model 151,Beauty,Makeup,162.66,258.58
+152,Makeup Model 152,Beauty,Makeup,157.74,320.76
+153,Makeup Model 153,Beauty,Makeup,97.11,198.33
+154,Makeup Model 154,Beauty,Makeup,166.05,393.57
+155,Fitness Equipment Model 155,Sports,Fitness Equipment,143.94,345.58
+156,Fitness Equipment Model 156,Sports,Fitness Equipment,82.6,110.35
+157,Fitness Equipment Model 157,Sports,Fitness Equipment,104.72,168.92
+158,Fitness Equipment Model 158,Sports,Fitness Equipment,103.69,229.95
+159,Fitness Equipment Model 159,Sports,Fitness Equipment,46.09,90.18
+160,Fitness Equipment Model 160,Sports,Fitness Equipment,221.49,533.57
+161,Fitness Equipment Model 161,Sports,Fitness Equipment,200.68,472.39
+162,Fitness Equipment Model 162,Sports,Fitness Equipment,74.51,103.38
+163,Fitness Equipment Model 163,Sports,Fitness Equipment,284.66,678.97
+164,Fitness Equipment Model 164,Sports,Fitness Equipment,212.41,471.27
+165,Fitness Equipment Model 165,Sports,Fitness Equipment,15.43,38.22
+166,Fitness Equipment Model 166,Sports,Fitness Equipment,285.22,575.51
+167,Fitness Equipment Model 167,Sports,Fitness Equipment,185.67,259.33
+168,Fitness Equipment Model 168,Sports,Fitness Equipment,167.67,408.43
+169,Outdoor Gear Model 169,Sports,Outdoor Gear,218.38,311.16
+170,Outdoor Gear Model 170,Sports,Outdoor Gear,151.5,237.9
+171,Outdoor Gear Model 171,Sports,Outdoor Gear,108.33,202.91
+172,Outdoor Gear Model 172,Sports,Outdoor Gear,235.55,553.95
+173,Outdoor Gear Model 173,Sports,Outdoor Gear,72.19,174.52
+174,Outdoor Gear Model 174,Sports,Outdoor Gear,12.77,28.58
+175,Outdoor Gear Model 175,Sports,Outdoor Gear,62.87,127.61
+176,Outdoor Gear Model 176,Sports,Outdoor Gear,116.92,247.91
+177,Outdoor Gear Model 177,Sports,Outdoor Gear,10.34,19.42
+178,Outdoor Gear Model 178,Sports,Outdoor Gear,119.2,208.92
+179,Outdoor Gear Model 179,Sports,Outdoor Gear,41.95,89.84
+180,Outdoor Gear Model 180,Sports,Outdoor Gear,167.12,240.44
+181,Sportswear Model 181,Sports,Sportswear,269.66,668.5
+182,Sportswear Model 182,Sports,Sportswear,113.47,173.88
+183,Sportswear Model 183,Sports,Sportswear,133.77,183.2
+184,Sportswear Model 184,Sports,Sportswear,73.45,147.37
+185,Sportswear Model 185,Sports,Sportswear,72.0,158.18
+186,Sportswear Model 186,Sports,Sportswear,267.06,601.37
+187,Sportswear Model 187,Sports,Sportswear,172.57,429.55
+188,Sportswear Model 188,Sports,Sportswear,9.4,20.34
+189,Sportswear Model 189,Sports,Sportswear,244.72,340.63
+190,Sportswear Model 190,Sports,Sportswear,42.38,64.28
+191,Snacks Model 191,Grocery,Snacks,97.67,197.58
+192,Snacks Model 192,Grocery,Snacks,267.68,668.59
+193,Snacks Model 193,Grocery,Snacks,43.27,76.91
+194,Snacks Model 194,Grocery,Snacks,198.99,415.47
+195,Snacks Model 195,Grocery,Snacks,27.53,66.79
+196,Snacks Model 196,Grocery,Snacks,65.73,141.08
+197,Snacks Model 197,Grocery,Snacks,244.96,582.31
+198,Snacks Model 198,Grocery,Snacks,258.33,473.33
+199,Snacks Model 199,Grocery,Snacks,94.3,164.11
+200,Snacks Model 200,Grocery,Snacks,167.66,392.79
+201,Beverages Model 201,Grocery,Beverages,160.42,260.05
+202,Beverages Model 202,Grocery,Beverages,210.84,401.47
+203,Beverages Model 203,Grocery,Beverages,20.93,49.82
+204,Beverages Model 204,Grocery,Beverages,213.12,436.1
+205,Beverages Model 205,Grocery,Beverages,87.54,135.19
+206,Beverages Model 206,Grocery,Beverages,45.45,112.31
+207,Beverages Model 207,Grocery,Beverages,73.01,159.91
+208,Beverages Model 208,Grocery,Beverages,67.18,117.35
+209,Beverages Model 209,Grocery,Beverages,245.83,361.46
+210,Beverages Model 210,Grocery,Beverages,293.48,627.46
+211,Beverages Model 211,Grocery,Beverages,196.72,362.85
+212,Staples Model 212,Grocery,Staples,11.28,25.98
+213,Staples Model 213,Grocery,Staples,84.74,169.98
+214,Staples Model 214,Grocery,Staples,93.62,230.13
+215,Staples Model 215,Grocery,Staples,22.62,52.6
+216,Staples Model 216,Grocery,Staples,118.26,156.41
+217,Staples Model 217,Grocery,Staples,117.86,216.02
+218,Staples Model 218,Grocery,Staples,71.21,124.99
+219,Staples Model 219,Grocery,Staples,199.68,387.18
+220,Staples Model 220,Grocery,Staples,199.82,267.27
+221,Staples Model 221,Grocery,Staples,230.08,557.87
